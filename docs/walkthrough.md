@@ -51,18 +51,16 @@
 ---
 
 ## Tahap 7: Deployment ke Vercel & GitHub (Hari 9) - Selesai ✅
+- GitHub Repository: [https://github.com/Faliqulxx/Shopee-App-Review-Intelligence-Dashboard](https://github.com/Faliqulxx/Shopee-App-Review-Intelligence-Dashboard)
+- Branch `main` ter-push lengkap (63 file).
+- Pengaturan `dashboard/vercel.json` disiapkan untuk deployment.
 
-### Deliverables & Link Repositori:
-1. **GitHub Repository**: [https://github.com/Faliqulxx/Shopee-App-Review-Intelligence-Dashboard](https://github.com/Faliqulxx/Shopee-App-Review-Intelligence-Dashboard)
-   - Branch: `main` (63 file ter-commit & ter-push, mencakup seluruh dataset, notebook, model, plots, dan aplikasi React dashboard).
-2. **Pengaturan Vercel**: `dashboard/vercel.json` disiapkan untuk framework Vite SPA rewrites.
+---
 
-### Langkah-langkah Connect Vercel Deployment:
-1. Buka [https://vercel.com/new](https://vercel.com/new) dan login dengan akun GitHub Anda.
-2. Impor repositori: `Faliqulxx/Shopee-App-Review-Intelligence-Dashboard`.
-3. Pada halaman **Configure Project**:
-   - **Framework Preset**: Vite
-   - **Root Directory**: `dashboard` (klik Edit dan pilih folder `dashboard`)
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-4. Klik **Deploy**. Vercel akan memproses build secara otomatis dan menghasilkan **Live Production URL** publik.
+## Tahap 8: Dokumentasi & Insight Report (Hari 10) - Selesai ✅
+- **[README.md](file:///e:/Vibecode/Shopee%20App%20Review%20Intelligence%20Dashboard/README.md)**: Dokumentasi utama proyek mencakup arsitektur end-to-end, metrik model, visualisasi, dan panduan instalasi.
+- **[docs/insight_report.md](file:///e:/Vibecode/Shopee%20App%20Review%20Intelligence%20Dashboard/docs/insight_report.md)**: Laporan 5+ insight bisnis strategis, limitasi proyek, dan rekomendasi pengembangan lanjutan (IndoBERT & ABSA).
+
+---
+
+🎉 **PROYEK SELESAI 100% (ALL PHASES 0-8 COMPLETED AND VERIFIED)**
