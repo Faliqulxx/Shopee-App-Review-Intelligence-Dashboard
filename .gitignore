@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Node modules & Vite build outputs (for React dashboard)
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.next/
+
+# Large datasets (if > 100MB, although raw dataset is tracked if needed)
+# data/raw/*.csv
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

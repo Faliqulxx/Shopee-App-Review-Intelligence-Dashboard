@@ -1,0 +1,608 @@
+{
+  "positif": [
+    {
+      "text": "shopee",
+      "value": 26236
+    },
+    {
+      "text": "belanja",
+      "value": 17343
+    },
+    {
+      "text": "tidak",
+      "value": 16174
+    },
+    {
+      "text": "saya",
+      "value": 15648
+    },
+    {
+      "text": "barang",
+      "value": 13484
+    },
+    {
+      "text": "nya",
+      "value": 13266
+    },
+    {
+      "text": "bisa",
+      "value": 12113
+    },
+    {
+      "text": "sangat",
+      "value": 11468
+    },
+    {
+      "text": "ada",
+      "value": 11465
+    },
+    {
+      "text": "aplikasi",
+      "value": 10381
+    },
+    {
+      "text": "bagus",
+      "value": 9548
+    },
+    {
+      "text": "tapi",
+      "value": 9479
+    },
+    {
+      "text": "ongkos",
+      "value": 9295
+    },
+    {
+      "text": "banyak",
+      "value": 8564
+    },
+    {
+      "text": "kirim",
+      "value": 8044
+    },
+    {
+      "text": "lagi",
+      "value": 7580
+    },
+    {
+      "text": "juga",
+      "value": 7060
+    },
+    {
+      "text": "kalau",
+      "value": 7005
+    },
+    {
+      "text": "lebih",
+      "value": 6496
+    },
+    {
+      "text": "banget",
+      "value": 6105
+    },
+    {
+      "text": "jadi",
+      "value": 5960
+    },
+    {
+      "text": "suka",
+      "value": 5869
+    },
+    {
+      "text": "gratis",
+      "value": 5822
+    },
+    {
+      "text": "mudah",
+      "value": 5573
+    },
+    {
+      "text": "saja",
+      "value": 5225
+    },
+    {
+      "text": "sesuai",
+      "value": 4889
+    },
+    {
+      "text": "membantu",
+      "value": 4848
+    },
+    {
+      "text": "selalu",
+      "value": 4768
+    },
+    {
+      "text": "murah",
+      "value": 4722
+    },
+    {
+      "text": "sudah",
+      "value": 4689
+    },
+    {
+      "text": "cepat",
+      "value": 4459
+    },
+    {
+      "text": "pengiriman",
+      "value": 4284
+    },
+    {
+      "text": "harga",
+      "value": 4264
+    },
+    {
+      "text": "buat",
+      "value": 4236
+    },
+    {
+      "text": "kasih",
+      "value": 3803
+    },
+    {
+      "text": "toko",
+      "value": 3747
+    },
+    {
+      "text": "online",
+      "value": 3746
+    },
+    {
+      "text": "baik",
+      "value": 3493
+    },
+    {
+      "text": "kita",
+      "value": 3490
+    },
+    {
+      "text": "aku",
+      "value": 3328
+    },
+    {
+      "text": "mau",
+      "value": 3318
+    },
+    {
+      "text": "sama",
+      "value": 3161
+    },
+    {
+      "text": "penjual",
+      "value": 3129
+    },
+    {
+      "text": "semoga",
+      "value": 3124
+    },
+    {
+      "text": "cuma",
+      "value": 3111
+    },
+    {
+      "text": "tolong",
+      "value": 3084
+    },
+    {
+      "text": "semua",
+      "value": 3072
+    },
+    {
+      "text": "pakai",
+      "value": 3004
+    },
+    {
+      "text": "karena",
+      "value": 2959
+    },
+    {
+      "text": "beli",
+      "value": 2918
+    }
+  ],
+  "netral": [
+    {
+      "text": "tidak",
+      "value": 10553
+    },
+    {
+      "text": "saya",
+      "value": 8117
+    },
+    {
+      "text": "shopee",
+      "value": 7867
+    },
+    {
+      "text": "bisa",
+      "value": 6164
+    },
+    {
+      "text": "nya",
+      "value": 5692
+    },
+    {
+      "text": "tapi",
+      "value": 5313
+    },
+    {
+      "text": "lagi",
+      "value": 4498
+    },
+    {
+      "text": "ada",
+      "value": 4113
+    },
+    {
+      "text": "aplikasi",
+      "value": 3977
+    },
+    {
+      "text": "kalau",
+      "value": 3749
+    },
+    {
+      "text": "jadi",
+      "value": 3693
+    },
+    {
+      "text": "tolong",
+      "value": 3549
+    },
+    {
+      "text": "mau",
+      "value": 3299
+    },
+    {
+      "text": "sudah",
+      "value": 3228
+    },
+    {
+      "text": "saja",
+      "value": 3208
+    },
+    {
+      "text": "padahal",
+      "value": 3055
+    },
+    {
+      "text": "sekarang",
+      "value": 3049
+    },
+    {
+      "text": "ongkos",
+      "value": 2857
+    },
+    {
+      "text": "kirim",
+      "value": 2845
+    },
+    {
+      "text": "barang",
+      "value": 2843
+    },
+    {
+      "text": "kenapa",
+      "value": 2744
+    },
+    {
+      "text": "banget",
+      "value": 2604
+    },
+    {
+      "text": "lama",
+      "value": 2528
+    },
+    {
+      "text": "belanja",
+      "value": 2500
+    },
+    {
+      "text": "juga",
+      "value": 2296
+    },
+    {
+      "text": "udah",
+      "value": 2194
+    },
+    {
+      "text": "dulu",
+      "value": 2105
+    },
+    {
+      "text": "lambat",
+      "value": 2077
+    },
+    {
+      "text": "update",
+      "value": 2051
+    },
+    {
+      "text": "pakai",
+      "value": 2032
+    },
+    {
+      "text": "bagus",
+      "value": 1924
+    },
+    {
+      "text": "buka",
+      "value": 1761
+    },
+    {
+      "text": "sama",
+      "value": 1759
+    },
+    {
+      "text": "sering",
+      "value": 1742
+    },
+    {
+      "text": "banyak",
+      "value": 1606
+    },
+    {
+      "text": "lebih",
+      "value": 1596
+    },
+    {
+      "text": "suka",
+      "value": 1556
+    },
+    {
+      "text": "pengiriman",
+      "value": 1514
+    },
+    {
+      "text": "gratis",
+      "value": 1504
+    },
+    {
+      "text": "buat",
+      "value": 1462
+    },
+    {
+      "text": "harus",
+      "value": 1405
+    },
+    {
+      "text": "terus",
+      "value": 1396
+    },
+    {
+      "text": "makin",
+      "value": 1395
+    },
+    {
+      "text": "aku",
+      "value": 1357
+    },
+    {
+      "text": "mohon",
+      "value": 1351
+    },
+    {
+      "text": "sih",
+      "value": 1325
+    },
+    {
+      "text": "karena",
+      "value": 1312
+    },
+    {
+      "text": "perbaiki",
+      "value": 1301
+    },
+    {
+      "text": "masih",
+      "value": 1295
+    },
+    {
+      "text": "malah",
+      "value": 1290
+    }
+  ],
+  "negatif": [
+    {
+      "text": "tidak",
+      "value": 50204
+    },
+    {
+      "text": "saya",
+      "value": 32396
+    },
+    {
+      "text": "shopee",
+      "value": 29907
+    },
+    {
+      "text": "bisa",
+      "value": 22490
+    },
+    {
+      "text": "aplikasi",
+      "value": 18984
+    },
+    {
+      "text": "nya",
+      "value": 18681
+    },
+    {
+      "text": "ada",
+      "value": 16120
+    },
+    {
+      "text": "sudah",
+      "value": 15757
+    },
+    {
+      "text": "tapi",
+      "value": 15442
+    },
+    {
+      "text": "saja",
+      "value": 15033
+    },
+    {
+      "text": "lagi",
+      "value": 13249
+    },
+    {
+      "text": "mau",
+      "value": 12169
+    },
+    {
+      "text": "kalau",
+      "value": 11963
+    },
+    {
+      "text": "barang",
+      "value": 11646
+    },
+    {
+      "text": "padahal",
+      "value": 11466
+    },
+    {
+      "text": "banget",
+      "value": 10579
+    },
+    {
+      "text": "kirim",
+      "value": 10533
+    },
+    {
+      "text": "udah",
+      "value": 10144
+    },
+    {
+      "text": "lama",
+      "value": 10085
+    },
+    {
+      "text": "sekarang",
+      "value": 9885
+    },
+    {
+      "text": "jadi",
+      "value": 9721
+    },
+    {
+      "text": "malah",
+      "value": 9272
+    },
+    {
+      "text": "pakai",
+      "value": 9214
+    },
+    {
+      "text": "makin",
+      "value": 9147
+    },
+    {
+      "text": "sama",
+      "value": 9004
+    },
+    {
+      "text": "juga",
+      "value": 9004
+    },
+    {
+      "text": "lambat",
+      "value": 8879
+    },
+    {
+      "text": "belanja",
+      "value": 8177
+    },
+    {
+      "text": "ongkos",
+      "value": 8138
+    },
+    {
+      "text": "tolong",
+      "value": 8120
+    },
+    {
+      "text": "pengiriman",
+      "value": 7318
+    },
+    {
+      "text": "sangat",
+      "value": 7281
+    },
+    {
+      "text": "banyak",
+      "value": 6683
+    },
+    {
+      "text": "kecewa",
+      "value": 6272
+    },
+    {
+      "text": "dulu",
+      "value": 5784
+    },
+    {
+      "text": "update",
+      "value": 5612
+    },
+    {
+      "text": "lebih",
+      "value": 5589
+    },
+    {
+      "text": "buka",
+      "value": 5573
+    },
+    {
+      "text": "terus",
+      "value": 5512
+    },
+    {
+      "text": "sampai",
+      "value": 5357
+    },
+    {
+      "text": "buat",
+      "value": 5243
+    },
+    {
+      "text": "penjual",
+      "value": 5186
+    },
+    {
+      "text": "masih",
+      "value": 5080
+    },
+    {
+      "text": "baru",
+      "value": 5040
+    },
+    {
+      "text": "lain",
+      "value": 5006
+    },
+    {
+      "text": "hari",
+      "value": 4655
+    },
+    {
+      "text": "apa",
+      "value": 4535
+    },
+    {
+      "text": "jasa",
+      "value": 4520
+    },
+    {
+      "text": "kenapa",
+      "value": 4469
+    },
+    {
+      "text": "harus",
+      "value": 4341
+    }
+  ]
+}

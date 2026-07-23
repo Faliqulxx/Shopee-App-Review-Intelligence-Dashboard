@@ -1,0 +1,97 @@
+{
+  "total_rows": 85500,
+  "total_columns": 11,
+  "columns": [
+    "reviewId",
+    "userName",
+    "userImage",
+    "content",
+    "score",
+    "thumbsUpCount",
+    "reviewCreatedVersion",
+    "at",
+    "replyContent",
+    "repliedAt",
+    "appVersion"
+  ],
+  "dtypes": {
+    "reviewId": "object",
+    "userName": "object",
+    "userImage": "object",
+    "content": "object",
+    "score": "int64",
+    "thumbsUpCount": "int64",
+    "reviewCreatedVersion": "object",
+    "at": "object",
+    "replyContent": "object",
+    "repliedAt": "object",
+    "appVersion": "object"
+  },
+  "missing_values": {
+    "reviewId": 0,
+    "userName": 0,
+    "userImage": 0,
+    "content": 1,
+    "score": 0,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": 12348,
+    "at": 0,
+    "replyContent": 22582,
+    "repliedAt": 22582,
+    "appVersion": 12348
+  },
+  "missing_pct": {
+    "reviewId": 0.0,
+    "userName": 0.0,
+    "userImage": 0.0,
+    "content": 0.0,
+    "score": 0.0,
+    "thumbsUpCount": 0.0,
+    "reviewCreatedVersion": 14.44,
+    "at": 0.0,
+    "replyContent": 26.41,
+    "repliedAt": 26.41,
+    "appVersion": 14.44
+  },
+  "sample": [
+    {
+      "reviewId": "a4a2655a-bf93-4d97-be4d-51455cf43e19",
+      "userName": "Pengguna Google",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "content": "penipuan berkedok Flash sale,ga ada mati nya,IKLAN AJA DI TV DAH KAYA YG BENERAN,DAN TERNYATA,ASU.tapi SESUAILAH sama Tagline nya,yg di iklan kan,sm Artisnya,pasti murah,karna udh ga mampu endorse ARTIS MAHAL,akhir nya,ya sesuai Tagline nya.ahayyyyyyy,...LAGI JATUH ne ye.",
+      "score": 1,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "3.38.35",
+      "at": "2024-12-12 16:37:40",
+      "replyContent": NaN,
+      "repliedAt": NaN,
+      "appVersion": "3.38.35"
+    },
+    {
+      "reviewId": "108847f4-8c20-4535-b165-c07e3ebc673b",
+      "userName": "Pengguna Google",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "content": "lama kali kurir nya , kalo bisa min... , tambahin laa identitas kurir nyaa.. biar kita bisa telp/chat kurir nya",
+      "score": 4,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "3.38.35",
+      "at": "2024-12-12 11:30:25",
+      "replyContent": "Hi kak makasih bintangnya, maaf udh bikin ga nyaman terkait kendala pesanan kakak. aku infoin hal tersebut bs dikarenakan jarak pengirman dan jg blm termasuk kendala saat pengiriman ya kak. Kalau kakak msh terkendala,jangan ragu kakak bisa DM sosmed resmi Shopee @shopeeid / @shopeecare yah, Sehat selalu ^ZY",
+      "repliedAt": "2024-12-12 12:30:37",
+      "appVersion": "3.38.35"
+    },
+    {
+      "reviewId": "137292a6-a210-4ba5-859b-9b3b6b4a557e",
+      "userName": "Pengguna Google",
+      "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+      "content": "BPK ibu shopee emang keren,cuman sayang,ongkirnya kadang2 kagak ngotak,,,tp keren si,1 lagi buat tko yg GK amanah tolong d blokir aja ya BPK ibu shopee",
+      "score": 5,
+      "thumbsUpCount": 0,
+      "reviewCreatedVersion": "3.38.35",
+      "at": "2024-12-12 10:20:09",
+      "replyContent": "Hai kak, mohon maaf atas ketidaknyamanan nya. terkait kendala yg kakak alami agar bisa aku bantu, bisa infoin username dan detail kendala kakak di DM IG @Shopee_id ya kak . Stay Safe ^GT",
+      "repliedAt": "2024-11-18 13:13:40",
+      "appVersion": "3.38.35"
+    }
+  ]
+}

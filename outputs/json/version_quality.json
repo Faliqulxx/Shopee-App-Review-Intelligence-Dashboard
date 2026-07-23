@@ -1,0 +1,2074 @@
+[
+  {
+    "version": "3.35.31",
+    "review_count": 5975,
+    "avg_rating": 3.67,
+    "negative_count": 1893,
+    "negative_pct": 31.68,
+    "positive_pct": 60.79
+  },
+  {
+    "version": "3.36.20",
+    "review_count": 4282,
+    "avg_rating": 3.83,
+    "negative_count": 1170,
+    "negative_pct": 27.32,
+    "positive_pct": 65.62
+  },
+  {
+    "version": "3.38.35",
+    "review_count": 3982,
+    "avg_rating": 3.81,
+    "negative_count": 1130,
+    "negative_pct": 28.38,
+    "positive_pct": 65.22
+  },
+  {
+    "version": "3.33.50",
+    "review_count": 3090,
+    "avg_rating": 3.39,
+    "negative_count": 1231,
+    "negative_pct": 39.84,
+    "positive_pct": 50.94
+  },
+  {
+    "version": "3.37.31",
+    "review_count": 2792,
+    "avg_rating": 3.75,
+    "negative_count": 816,
+    "negative_pct": 29.23,
+    "positive_pct": 64.51
+  },
+  {
+    "version": "2.95.52",
+    "review_count": 2375,
+    "avg_rating": 1.96,
+    "negative_count": 1771,
+    "negative_pct": 74.57,
+    "positive_pct": 10.91
+  },
+  {
+    "version": "3.34.42",
+    "review_count": 1987,
+    "avg_rating": 3.66,
+    "negative_count": 626,
+    "negative_pct": 31.5,
+    "positive_pct": 60.44
+  },
+  {
+    "version": "3.29.24",
+    "review_count": 1744,
+    "avg_rating": 3.46,
+    "negative_count": 640,
+    "negative_pct": 36.7,
+    "positive_pct": 52.64
+  },
+  {
+    "version": "3.36.19",
+    "review_count": 1302,
+    "avg_rating": 3.69,
+    "negative_count": 403,
+    "negative_pct": 30.95,
+    "positive_pct": 61.21
+  },
+  {
+    "version": "3.32.20",
+    "review_count": 1210,
+    "avg_rating": 3.35,
+    "negative_count": 478,
+    "negative_pct": 39.5,
+    "positive_pct": 49.75
+  },
+  {
+    "version": "2.85.32",
+    "review_count": 1184,
+    "avg_rating": 2.4,
+    "negative_count": 726,
+    "negative_pct": 61.32,
+    "positive_pct": 26.27
+  },
+  {
+    "version": "3.31.19",
+    "review_count": 1115,
+    "avg_rating": 3.31,
+    "negative_count": 441,
+    "negative_pct": 39.55,
+    "positive_pct": 50.4
+  },
+  {
+    "version": "3.28.35",
+    "review_count": 1068,
+    "avg_rating": 3.36,
+    "negative_count": 417,
+    "negative_pct": 39.04,
+    "positive_pct": 49.81
+  },
+  {
+    "version": "3.31.18",
+    "review_count": 1064,
+    "avg_rating": 3.45,
+    "negative_count": 386,
+    "negative_pct": 36.28,
+    "positive_pct": 53.85
+  },
+  {
+    "version": "3.30.30",
+    "review_count": 1039,
+    "avg_rating": 3.57,
+    "negative_count": 348,
+    "negative_pct": 33.49,
+    "positive_pct": 56.11
+  },
+  {
+    "version": "3.38.33",
+    "review_count": 946,
+    "avg_rating": 3.86,
+    "negative_count": 262,
+    "negative_pct": 27.7,
+    "positive_pct": 65.64
+  },
+  {
+    "version": "2.94.13",
+    "review_count": 899,
+    "avg_rating": 2.08,
+    "negative_count": 635,
+    "negative_pct": 70.63,
+    "positive_pct": 14.68
+  },
+  {
+    "version": "2.68.11",
+    "review_count": 866,
+    "avg_rating": 2.17,
+    "negative_count": 568,
+    "negative_pct": 65.59,
+    "positive_pct": 20.32
+  },
+  {
+    "version": "3.38.34",
+    "review_count": 643,
+    "avg_rating": 3.81,
+    "negative_count": 185,
+    "negative_pct": 28.77,
+    "positive_pct": 66.25
+  },
+  {
+    "version": "3.34.40",
+    "review_count": 610,
+    "avg_rating": 3.33,
+    "negative_count": 246,
+    "negative_pct": 40.33,
+    "positive_pct": 49.84
+  },
+  {
+    "version": "3.34.37",
+    "review_count": 573,
+    "avg_rating": 3.36,
+    "negative_count": 218,
+    "negative_pct": 38.05,
+    "positive_pct": 50.96
+  },
+  {
+    "version": "3.30.18",
+    "review_count": 540,
+    "avg_rating": 3.38,
+    "negative_count": 202,
+    "negative_pct": 37.41,
+    "positive_pct": 50.93
+  },
+  {
+    "version": "2.92.27",
+    "review_count": 527,
+    "avg_rating": 2.34,
+    "negative_count": 342,
+    "negative_pct": 64.9,
+    "positive_pct": 16.32
+  },
+  {
+    "version": "3.28.34",
+    "review_count": 511,
+    "avg_rating": 3.11,
+    "negative_count": 232,
+    "negative_pct": 45.4,
+    "positive_pct": 44.03
+  },
+  {
+    "version": "3.30.28",
+    "review_count": 511,
+    "avg_rating": 3.14,
+    "negative_count": 228,
+    "negative_pct": 44.62,
+    "positive_pct": 43.44
+  },
+  {
+    "version": "3.32.19",
+    "review_count": 509,
+    "avg_rating": 3.14,
+    "negative_count": 222,
+    "negative_pct": 43.61,
+    "positive_pct": 42.04
+  },
+  {
+    "version": "2.89.41",
+    "review_count": 459,
+    "avg_rating": 2.37,
+    "negative_count": 280,
+    "negative_pct": 61.0,
+    "positive_pct": 22.66
+  },
+  {
+    "version": "2.44.50",
+    "review_count": 440,
+    "avg_rating": 4.27,
+    "negative_count": 68,
+    "negative_pct": 15.45,
+    "positive_pct": 75.45
+  },
+  {
+    "version": "3.27.09",
+    "review_count": 433,
+    "avg_rating": 2.88,
+    "negative_count": 229,
+    "negative_pct": 52.89,
+    "positive_pct": 34.87
+  },
+  {
+    "version": "2.46.06",
+    "review_count": 432,
+    "avg_rating": 3.81,
+    "negative_count": 115,
+    "negative_pct": 26.62,
+    "positive_pct": 62.73
+  },
+  {
+    "version": "2.47.21",
+    "review_count": 400,
+    "avg_rating": 3.63,
+    "negative_count": 120,
+    "negative_pct": 30.0,
+    "positive_pct": 60.75
+  },
+  {
+    "version": "2.50.16",
+    "review_count": 372,
+    "avg_rating": 3.17,
+    "negative_count": 159,
+    "negative_pct": 42.74,
+    "positive_pct": 40.05
+  },
+  {
+    "version": "2.49.30",
+    "review_count": 363,
+    "avg_rating": 3.14,
+    "negative_count": 152,
+    "negative_pct": 41.87,
+    "positive_pct": 42.7
+  },
+  {
+    "version": "2.68.05",
+    "review_count": 357,
+    "avg_rating": 1.96,
+    "negative_count": 259,
+    "negative_pct": 72.55,
+    "positive_pct": 14.57
+  },
+  {
+    "version": "2.60.12",
+    "review_count": 352,
+    "avg_rating": 3.7,
+    "negative_count": 105,
+    "negative_pct": 29.83,
+    "positive_pct": 59.38
+  },
+  {
+    "version": "2.91.30",
+    "review_count": 342,
+    "avg_rating": 2.14,
+    "negative_count": 238,
+    "negative_pct": 69.59,
+    "positive_pct": 15.5
+  },
+  {
+    "version": "2.95.47",
+    "review_count": 341,
+    "avg_rating": 1.99,
+    "negative_count": 244,
+    "negative_pct": 71.55,
+    "positive_pct": 11.44
+  },
+  {
+    "version": "2.93.16",
+    "review_count": 340,
+    "avg_rating": 2.21,
+    "negative_count": 233,
+    "negative_pct": 68.53,
+    "positive_pct": 16.47
+  },
+  {
+    "version": "2.95.20",
+    "review_count": 324,
+    "avg_rating": 1.93,
+    "negative_count": 237,
+    "negative_pct": 73.15,
+    "positive_pct": 9.57
+  },
+  {
+    "version": "3.29.23",
+    "review_count": 322,
+    "avg_rating": 3.5,
+    "negative_count": 120,
+    "negative_pct": 37.27,
+    "positive_pct": 55.9
+  },
+  {
+    "version": "2.99.23",
+    "review_count": 321,
+    "avg_rating": 2.19,
+    "negative_count": 214,
+    "negative_pct": 66.67,
+    "positive_pct": 19.31
+  },
+  {
+    "version": "2.62.30",
+    "review_count": 318,
+    "avg_rating": 3.57,
+    "negative_count": 92,
+    "negative_pct": 28.93,
+    "positive_pct": 56.29
+  },
+  {
+    "version": "2.55.13",
+    "review_count": 311,
+    "avg_rating": 2.87,
+    "negative_count": 143,
+    "negative_pct": 45.98,
+    "positive_pct": 34.73
+  },
+  {
+    "version": "2.66.10",
+    "review_count": 307,
+    "avg_rating": 2.91,
+    "negative_count": 145,
+    "negative_pct": 47.23,
+    "positive_pct": 41.04
+  },
+  {
+    "version": "2.54.30",
+    "review_count": 297,
+    "avg_rating": 3.33,
+    "negative_count": 118,
+    "negative_pct": 39.73,
+    "positive_pct": 44.44
+  },
+  {
+    "version": "2.53.12",
+    "review_count": 288,
+    "avg_rating": 3.34,
+    "negative_count": 109,
+    "negative_pct": 37.85,
+    "positive_pct": 48.26
+  },
+  {
+    "version": "2.65.16",
+    "review_count": 287,
+    "avg_rating": 2.89,
+    "negative_count": 148,
+    "negative_pct": 51.57,
+    "positive_pct": 33.45
+  },
+  {
+    "version": "2.52.20",
+    "review_count": 286,
+    "avg_rating": 3.23,
+    "negative_count": 112,
+    "negative_pct": 39.16,
+    "positive_pct": 45.8
+  },
+  {
+    "version": "2.29.11",
+    "review_count": 284,
+    "avg_rating": 2.39,
+    "negative_count": 175,
+    "negative_pct": 61.62,
+    "positive_pct": 16.55
+  },
+  {
+    "version": "2.84.31",
+    "review_count": 283,
+    "avg_rating": 2.49,
+    "negative_count": 161,
+    "negative_pct": 56.89,
+    "positive_pct": 22.61
+  },
+  {
+    "version": "2.71.21",
+    "review_count": 282,
+    "avg_rating": 3.19,
+    "negative_count": 124,
+    "negative_pct": 43.97,
+    "positive_pct": 36.88
+  },
+  {
+    "version": "2.45.51",
+    "review_count": 277,
+    "avg_rating": 3.99,
+    "negative_count": 69,
+    "negative_pct": 24.91,
+    "positive_pct": 64.98
+  },
+  {
+    "version": "2.60.08",
+    "review_count": 271,
+    "avg_rating": 3.75,
+    "negative_count": 70,
+    "negative_pct": 25.83,
+    "positive_pct": 63.84
+  },
+  {
+    "version": "2.30.12",
+    "review_count": 265,
+    "avg_rating": 2.58,
+    "negative_count": 151,
+    "negative_pct": 56.98,
+    "positive_pct": 23.4
+  },
+  {
+    "version": "2.49.10",
+    "review_count": 257,
+    "avg_rating": 3.5,
+    "negative_count": 83,
+    "negative_pct": 32.3,
+    "positive_pct": 50.19
+  },
+  {
+    "version": "3.33.47",
+    "review_count": 256,
+    "avg_rating": 3.26,
+    "negative_count": 115,
+    "negative_pct": 44.92,
+    "positive_pct": 47.66
+  },
+  {
+    "version": "2.80.30",
+    "review_count": 255,
+    "avg_rating": 2.75,
+    "negative_count": 125,
+    "negative_pct": 49.02,
+    "positive_pct": 33.33
+  },
+  {
+    "version": "2.88.23",
+    "review_count": 253,
+    "avg_rating": 2.36,
+    "negative_count": 154,
+    "negative_pct": 60.87,
+    "positive_pct": 26.88
+  },
+  {
+    "version": "2.92.24",
+    "review_count": 248,
+    "avg_rating": 2.42,
+    "negative_count": 149,
+    "negative_pct": 60.08,
+    "positive_pct": 20.97
+  },
+  {
+    "version": "2.92.08",
+    "review_count": 230,
+    "avg_rating": 2.31,
+    "negative_count": 142,
+    "negative_pct": 61.74,
+    "positive_pct": 22.61
+  },
+  {
+    "version": "2.89.30",
+    "review_count": 229,
+    "avg_rating": 2.43,
+    "negative_count": 135,
+    "negative_pct": 58.95,
+    "positive_pct": 24.02
+  },
+  {
+    "version": "2.74.17",
+    "review_count": 228,
+    "avg_rating": 3.13,
+    "negative_count": 107,
+    "negative_pct": 46.93,
+    "positive_pct": 41.23
+  },
+  {
+    "version": "2.95.59",
+    "review_count": 226,
+    "avg_rating": 2.02,
+    "negative_count": 165,
+    "negative_pct": 73.01,
+    "positive_pct": 6.64
+  },
+  {
+    "version": "2.64.16",
+    "review_count": 223,
+    "avg_rating": 3.39,
+    "negative_count": 83,
+    "negative_pct": 37.22,
+    "positive_pct": 49.78
+  },
+  {
+    "version": "3.39.15",
+    "review_count": 223,
+    "avg_rating": 3.75,
+    "negative_count": 65,
+    "negative_pct": 29.15,
+    "positive_pct": 65.02
+  },
+  {
+    "version": "2.57.13",
+    "review_count": 221,
+    "avg_rating": 3.18,
+    "negative_count": 89,
+    "negative_pct": 40.27,
+    "positive_pct": 45.25
+  },
+  {
+    "version": "2.82.21",
+    "review_count": 220,
+    "avg_rating": 2.62,
+    "negative_count": 114,
+    "negative_pct": 51.82,
+    "positive_pct": 27.27
+  },
+  {
+    "version": "2.58.21",
+    "review_count": 216,
+    "avg_rating": 3.36,
+    "negative_count": 74,
+    "negative_pct": 34.26,
+    "positive_pct": 47.22
+  },
+  {
+    "version": "2.91.23",
+    "review_count": 215,
+    "avg_rating": 2.26,
+    "negative_count": 131,
+    "negative_pct": 60.93,
+    "positive_pct": 20.47
+  },
+  {
+    "version": "2.56.05",
+    "review_count": 214,
+    "avg_rating": 2.21,
+    "negative_count": 145,
+    "negative_pct": 67.76,
+    "positive_pct": 21.03
+  },
+  {
+    "version": "2.61.21",
+    "review_count": 211,
+    "avg_rating": 3.73,
+    "negative_count": 62,
+    "negative_pct": 29.38,
+    "positive_pct": 60.19
+  },
+  {
+    "version": "2.56.22",
+    "review_count": 204,
+    "avg_rating": 3.32,
+    "negative_count": 73,
+    "negative_pct": 35.78,
+    "positive_pct": 47.55
+  },
+  {
+    "version": "3.36.16",
+    "review_count": 204,
+    "avg_rating": 3.75,
+    "negative_count": 61,
+    "negative_pct": 29.9,
+    "positive_pct": 63.24
+  },
+  {
+    "version": "2.63.19",
+    "review_count": 202,
+    "avg_rating": 3.31,
+    "negative_count": 83,
+    "negative_pct": 41.09,
+    "positive_pct": 46.04
+  },
+  {
+    "version": "2.81.21",
+    "review_count": 199,
+    "avg_rating": 2.73,
+    "negative_count": 112,
+    "negative_pct": 56.28,
+    "positive_pct": 27.64
+  },
+  {
+    "version": "2.69.21",
+    "review_count": 198,
+    "avg_rating": 3.29,
+    "negative_count": 81,
+    "negative_pct": 40.91,
+    "positive_pct": 43.94
+  },
+  {
+    "version": "2.98.30",
+    "review_count": 192,
+    "avg_rating": 2.12,
+    "negative_count": 131,
+    "negative_pct": 68.23,
+    "positive_pct": 18.75
+  },
+  {
+    "version": "2.89.12",
+    "review_count": 188,
+    "avg_rating": 2.21,
+    "negative_count": 127,
+    "negative_pct": 67.55,
+    "positive_pct": 19.68
+  },
+  {
+    "version": "2.38.26",
+    "review_count": 187,
+    "avg_rating": 3.22,
+    "negative_count": 71,
+    "negative_pct": 37.97,
+    "positive_pct": 45.45
+  },
+  {
+    "version": "2.76.05",
+    "review_count": 185,
+    "avg_rating": 2.91,
+    "negative_count": 93,
+    "negative_pct": 50.27,
+    "positive_pct": 36.22
+  },
+  {
+    "version": "2.55.08",
+    "review_count": 183,
+    "avg_rating": 3.19,
+    "negative_count": 78,
+    "negative_pct": 42.62,
+    "positive_pct": 42.62
+  },
+  {
+    "version": "2.61.32",
+    "review_count": 179,
+    "avg_rating": 3.53,
+    "negative_count": 65,
+    "negative_pct": 36.31,
+    "positive_pct": 51.96
+  },
+  {
+    "version": "3.35.30",
+    "review_count": 177,
+    "avg_rating": 3.35,
+    "negative_count": 67,
+    "negative_pct": 37.85,
+    "positive_pct": 52.54
+  },
+  {
+    "version": "2.88.41",
+    "review_count": 175,
+    "avg_rating": 2.09,
+    "negative_count": 119,
+    "negative_pct": 68.0,
+    "positive_pct": 17.71
+  },
+  {
+    "version": "2.63.29",
+    "review_count": 169,
+    "avg_rating": 3.85,
+    "negative_count": 48,
+    "negative_pct": 28.4,
+    "positive_pct": 63.91
+  },
+  {
+    "version": "2.31.15",
+    "review_count": 168,
+    "avg_rating": 2.19,
+    "negative_count": 112,
+    "negative_pct": 66.67,
+    "positive_pct": 17.86
+  },
+  {
+    "version": "2.70.10",
+    "review_count": 166,
+    "avg_rating": 2.86,
+    "negative_count": 88,
+    "negative_pct": 53.01,
+    "positive_pct": 32.53
+  },
+  {
+    "version": "2.69.20",
+    "review_count": 165,
+    "avg_rating": 3.07,
+    "negative_count": 81,
+    "negative_pct": 49.09,
+    "positive_pct": 35.76
+  },
+  {
+    "version": "2.73.06",
+    "review_count": 165,
+    "avg_rating": 2.61,
+    "negative_count": 97,
+    "negative_pct": 58.79,
+    "positive_pct": 30.3
+  },
+  {
+    "version": "2.47.10",
+    "review_count": 164,
+    "avg_rating": 3.52,
+    "negative_count": 48,
+    "negative_pct": 29.27,
+    "positive_pct": 56.71
+  },
+  {
+    "version": "2.72.16",
+    "review_count": 163,
+    "avg_rating": 2.96,
+    "negative_count": 78,
+    "negative_pct": 47.85,
+    "positive_pct": 36.2
+  },
+  {
+    "version": "3.28.32",
+    "review_count": 163,
+    "avg_rating": 3.42,
+    "negative_count": 65,
+    "negative_pct": 39.88,
+    "positive_pct": 48.47
+  },
+  {
+    "version": "3.39.13",
+    "review_count": 163,
+    "avg_rating": 3.71,
+    "negative_count": 49,
+    "negative_pct": 30.06,
+    "positive_pct": 65.03
+  },
+  {
+    "version": "2.83.20",
+    "review_count": 163,
+    "avg_rating": 2.91,
+    "negative_count": 84,
+    "negative_pct": 51.53,
+    "positive_pct": 33.13
+  },
+  {
+    "version": "2.73.10",
+    "review_count": 162,
+    "avg_rating": 3.12,
+    "negative_count": 71,
+    "negative_pct": 43.83,
+    "positive_pct": 35.19
+  },
+  {
+    "version": "2.69.07",
+    "review_count": 161,
+    "avg_rating": 2.34,
+    "negative_count": 100,
+    "negative_pct": 62.11,
+    "positive_pct": 22.98
+  },
+  {
+    "version": "2.37.30",
+    "review_count": 160,
+    "avg_rating": 2.61,
+    "negative_count": 84,
+    "negative_pct": 52.5,
+    "positive_pct": 28.12
+  },
+  {
+    "version": "2.41.21",
+    "review_count": 159,
+    "avg_rating": 2.33,
+    "negative_count": 99,
+    "negative_pct": 62.26,
+    "positive_pct": 25.16
+  },
+  {
+    "version": "2.63.08",
+    "review_count": 158,
+    "avg_rating": 3.56,
+    "negative_count": 57,
+    "negative_pct": 36.08,
+    "positive_pct": 56.33
+  },
+  {
+    "version": "2.64.13",
+    "review_count": 157,
+    "avg_rating": 3.36,
+    "negative_count": 63,
+    "negative_pct": 40.13,
+    "positive_pct": 51.59
+  },
+  {
+    "version": "2.43.10",
+    "review_count": 153,
+    "avg_rating": 3.53,
+    "negative_count": 42,
+    "negative_pct": 27.45,
+    "positive_pct": 56.21
+  },
+  {
+    "version": "3.37.27",
+    "review_count": 152,
+    "avg_rating": 3.19,
+    "negative_count": 73,
+    "negative_pct": 48.03,
+    "positive_pct": 49.34
+  },
+  {
+    "version": "2.59.11",
+    "review_count": 151,
+    "avg_rating": 3.19,
+    "negative_count": 63,
+    "negative_pct": 41.72,
+    "positive_pct": 42.38
+  },
+  {
+    "version": "2.59.40",
+    "review_count": 148,
+    "avg_rating": 3.56,
+    "negative_count": 53,
+    "negative_pct": 35.81,
+    "positive_pct": 54.05
+  },
+  {
+    "version": "2.79.21",
+    "review_count": 147,
+    "avg_rating": 2.97,
+    "negative_count": 79,
+    "negative_pct": 53.74,
+    "positive_pct": 31.97
+  },
+  {
+    "version": "2.62.08",
+    "review_count": 147,
+    "avg_rating": 3.65,
+    "negative_count": 42,
+    "negative_pct": 28.57,
+    "positive_pct": 55.78
+  },
+  {
+    "version": "2.87.40",
+    "review_count": 146,
+    "avg_rating": 2.39,
+    "negative_count": 88,
+    "negative_pct": 60.27,
+    "positive_pct": 21.92
+  },
+  {
+    "version": "2.57.10",
+    "review_count": 145,
+    "avg_rating": 2.99,
+    "negative_count": 66,
+    "negative_pct": 45.52,
+    "positive_pct": 35.86
+  },
+  {
+    "version": "2.39.20",
+    "review_count": 145,
+    "avg_rating": 3.17,
+    "negative_count": 56,
+    "negative_pct": 38.62,
+    "positive_pct": 44.14
+  },
+  {
+    "version": "2.77.32",
+    "review_count": 137,
+    "avg_rating": 3.09,
+    "negative_count": 59,
+    "negative_pct": 43.07,
+    "positive_pct": 40.88
+  },
+  {
+    "version": "2.38.18",
+    "review_count": 136,
+    "avg_rating": 2.59,
+    "negative_count": 68,
+    "negative_pct": 50.0,
+    "positive_pct": 25.74
+  },
+  {
+    "version": "2.75.41",
+    "review_count": 134,
+    "avg_rating": 3.07,
+    "negative_count": 60,
+    "negative_pct": 44.78,
+    "positive_pct": 34.33
+  },
+  {
+    "version": "2.70.12",
+    "review_count": 132,
+    "avg_rating": 2.77,
+    "negative_count": 65,
+    "negative_pct": 49.24,
+    "positive_pct": 29.55
+  },
+  {
+    "version": "2.29.12",
+    "review_count": 123,
+    "avg_rating": 1.95,
+    "negative_count": 82,
+    "negative_pct": 66.67,
+    "positive_pct": 10.57
+  },
+  {
+    "version": "2.75.03",
+    "review_count": 121,
+    "avg_rating": 3.18,
+    "negative_count": 51,
+    "negative_pct": 42.15,
+    "positive_pct": 39.67
+  },
+  {
+    "version": "2.42.62",
+    "review_count": 121,
+    "avg_rating": 2.97,
+    "negative_count": 54,
+    "negative_pct": 44.63,
+    "positive_pct": 32.23
+  },
+  {
+    "version": "2.79.09",
+    "review_count": 120,
+    "avg_rating": 2.93,
+    "negative_count": 64,
+    "negative_pct": 53.33,
+    "positive_pct": 31.67
+  },
+  {
+    "version": "2.67.21",
+    "review_count": 117,
+    "avg_rating": 3.04,
+    "negative_count": 56,
+    "negative_pct": 47.86,
+    "positive_pct": 36.75
+  },
+  {
+    "version": "2.50.06",
+    "review_count": 117,
+    "avg_rating": 3.05,
+    "negative_count": 52,
+    "negative_pct": 44.44,
+    "positive_pct": 37.61
+  },
+  {
+    "version": "2.97.14",
+    "review_count": 113,
+    "avg_rating": 1.97,
+    "negative_count": 88,
+    "negative_pct": 77.88,
+    "positive_pct": 6.19
+  },
+  {
+    "version": "2.98.10",
+    "review_count": 112,
+    "avg_rating": 2.14,
+    "negative_count": 80,
+    "negative_pct": 71.43,
+    "positive_pct": 15.18
+  },
+  {
+    "version": "2.82.06",
+    "review_count": 112,
+    "avg_rating": 2.37,
+    "negative_count": 63,
+    "negative_pct": 56.25,
+    "positive_pct": 25.89
+  },
+  {
+    "version": "2.54.04",
+    "review_count": 112,
+    "avg_rating": 3.36,
+    "negative_count": 49,
+    "negative_pct": 43.75,
+    "positive_pct": 47.32
+  },
+  {
+    "version": "2.81.31",
+    "review_count": 111,
+    "avg_rating": 2.52,
+    "negative_count": 69,
+    "negative_pct": 62.16,
+    "positive_pct": 22.52
+  },
+  {
+    "version": "2.52.07",
+    "review_count": 109,
+    "avg_rating": 3.21,
+    "negative_count": 44,
+    "negative_pct": 40.37,
+    "positive_pct": 37.61
+  },
+  {
+    "version": "3.01.26",
+    "review_count": 107,
+    "avg_rating": 2.32,
+    "negative_count": 68,
+    "negative_pct": 63.55,
+    "positive_pct": 26.17
+  },
+  {
+    "version": "2.44.15",
+    "review_count": 105,
+    "avg_rating": 3.61,
+    "negative_count": 29,
+    "negative_pct": 27.62,
+    "positive_pct": 57.14
+  },
+  {
+    "version": "2.44.30",
+    "review_count": 105,
+    "avg_rating": 3.9,
+    "negative_count": 32,
+    "negative_pct": 30.48,
+    "positive_pct": 62.86
+  },
+  {
+    "version": "2.58.11",
+    "review_count": 105,
+    "avg_rating": 3.05,
+    "negative_count": 37,
+    "negative_pct": 35.24,
+    "positive_pct": 50.48
+  },
+  {
+    "version": "3.20.10",
+    "review_count": 104,
+    "avg_rating": 2.78,
+    "negative_count": 60,
+    "negative_pct": 57.69,
+    "positive_pct": 26.92
+  },
+  {
+    "version": "2.75.62",
+    "review_count": 104,
+    "avg_rating": 2.73,
+    "negative_count": 54,
+    "negative_pct": 51.92,
+    "positive_pct": 27.88
+  },
+  {
+    "version": "2.48.40",
+    "review_count": 103,
+    "avg_rating": 3.31,
+    "negative_count": 35,
+    "negative_pct": 33.98,
+    "positive_pct": 50.49
+  },
+  {
+    "version": "2.27.32",
+    "review_count": 102,
+    "avg_rating": 2.52,
+    "negative_count": 65,
+    "negative_pct": 63.73,
+    "positive_pct": 23.53
+  },
+  {
+    "version": "2.69.11",
+    "review_count": 101,
+    "avg_rating": 2.5,
+    "negative_count": 59,
+    "negative_pct": 58.42,
+    "positive_pct": 26.73
+  },
+  {
+    "version": "2.36.20",
+    "review_count": 99,
+    "avg_rating": 2.43,
+    "negative_count": 54,
+    "negative_pct": 54.55,
+    "positive_pct": 30.3
+  },
+  {
+    "version": "2.85.20",
+    "review_count": 98,
+    "avg_rating": 2.26,
+    "negative_count": 66,
+    "negative_pct": 67.35,
+    "positive_pct": 24.49
+  },
+  {
+    "version": "2.48.20",
+    "review_count": 96,
+    "avg_rating": 3.52,
+    "negative_count": 31,
+    "negative_pct": 32.29,
+    "positive_pct": 53.12
+  },
+  {
+    "version": "2.51.60",
+    "review_count": 95,
+    "avg_rating": 3.6,
+    "negative_count": 36,
+    "negative_pct": 37.89,
+    "positive_pct": 56.84
+  },
+  {
+    "version": "2.76.21",
+    "review_count": 95,
+    "avg_rating": 2.77,
+    "negative_count": 46,
+    "negative_pct": 48.42,
+    "positive_pct": 34.74
+  },
+  {
+    "version": "2.96.24",
+    "review_count": 94,
+    "avg_rating": 1.71,
+    "negative_count": 70,
+    "negative_pct": 74.47,
+    "positive_pct": 7.45
+  },
+  {
+    "version": "2.65.13",
+    "review_count": 93,
+    "avg_rating": 3.17,
+    "negative_count": 42,
+    "negative_pct": 45.16,
+    "positive_pct": 43.01
+  },
+  {
+    "version": "2.53.11",
+    "review_count": 93,
+    "avg_rating": 3.35,
+    "negative_count": 37,
+    "negative_pct": 39.78,
+    "positive_pct": 53.76
+  },
+  {
+    "version": "2.67.10",
+    "review_count": 93,
+    "avg_rating": 2.6,
+    "negative_count": 49,
+    "negative_pct": 52.69,
+    "positive_pct": 31.18
+  },
+  {
+    "version": "3.21.16",
+    "review_count": 92,
+    "avg_rating": 2.42,
+    "negative_count": 56,
+    "negative_pct": 60.87,
+    "positive_pct": 22.83
+  },
+  {
+    "version": "2.90.25",
+    "review_count": 92,
+    "avg_rating": 2.02,
+    "negative_count": 64,
+    "negative_pct": 69.57,
+    "positive_pct": 17.39
+  },
+  {
+    "version": "2.59.10",
+    "review_count": 92,
+    "avg_rating": 3.49,
+    "negative_count": 32,
+    "negative_pct": 34.78,
+    "positive_pct": 54.35
+  },
+  {
+    "version": "2.70.11",
+    "review_count": 90,
+    "avg_rating": 2.98,
+    "negative_count": 41,
+    "negative_pct": 45.56,
+    "positive_pct": 38.89
+  },
+  {
+    "version": "2.33.10",
+    "review_count": 87,
+    "avg_rating": 2.49,
+    "negative_count": 52,
+    "negative_pct": 59.77,
+    "positive_pct": 22.99
+  },
+  {
+    "version": "2.53.07",
+    "review_count": 87,
+    "avg_rating": 3.23,
+    "negative_count": 28,
+    "negative_pct": 32.18,
+    "positive_pct": 48.28
+  },
+  {
+    "version": "2.26.20",
+    "review_count": 85,
+    "avg_rating": 2.61,
+    "negative_count": 45,
+    "negative_pct": 52.94,
+    "positive_pct": 32.94
+  },
+  {
+    "version": "2.41.13",
+    "review_count": 83,
+    "avg_rating": 2.83,
+    "negative_count": 36,
+    "negative_pct": 43.37,
+    "positive_pct": 37.35
+  },
+  {
+    "version": "3.24.17",
+    "review_count": 83,
+    "avg_rating": 2.61,
+    "negative_count": 50,
+    "negative_pct": 60.24,
+    "positive_pct": 25.3
+  },
+  {
+    "version": "2.60.11",
+    "review_count": 82,
+    "avg_rating": 4.01,
+    "negative_count": 17,
+    "negative_pct": 20.73,
+    "positive_pct": 70.73
+  },
+  {
+    "version": "2.61.11",
+    "review_count": 82,
+    "avg_rating": 3.98,
+    "negative_count": 17,
+    "negative_pct": 20.73,
+    "positive_pct": 71.95
+  },
+  {
+    "version": "3.01.24",
+    "review_count": 80,
+    "avg_rating": 2.05,
+    "negative_count": 59,
+    "negative_pct": 73.75,
+    "positive_pct": 13.75
+  },
+  {
+    "version": "2.78.41",
+    "review_count": 80,
+    "avg_rating": 2.9,
+    "negative_count": 38,
+    "negative_pct": 47.5,
+    "positive_pct": 36.25
+  },
+  {
+    "version": "2.37.55",
+    "review_count": 79,
+    "avg_rating": 2.56,
+    "negative_count": 39,
+    "negative_pct": 49.37,
+    "positive_pct": 30.38
+  },
+  {
+    "version": "3.01.09",
+    "review_count": 78,
+    "avg_rating": 1.88,
+    "negative_count": 62,
+    "negative_pct": 79.49,
+    "positive_pct": 14.1
+  },
+  {
+    "version": "2.40.50",
+    "review_count": 78,
+    "avg_rating": 3.03,
+    "negative_count": 34,
+    "negative_pct": 43.59,
+    "positive_pct": 39.74
+  },
+  {
+    "version": "2.67.05",
+    "review_count": 77,
+    "avg_rating": 2.65,
+    "negative_count": 38,
+    "negative_pct": 49.35,
+    "positive_pct": 33.77
+  },
+  {
+    "version": "2.51.06",
+    "review_count": 77,
+    "avg_rating": 3.21,
+    "negative_count": 30,
+    "negative_pct": 38.96,
+    "positive_pct": 38.96
+  },
+  {
+    "version": "2.40.30",
+    "review_count": 77,
+    "avg_rating": 2.95,
+    "negative_count": 32,
+    "negative_pct": 41.56,
+    "positive_pct": 37.66
+  },
+  {
+    "version": "2.28.27",
+    "review_count": 75,
+    "avg_rating": 2.72,
+    "negative_count": 40,
+    "negative_pct": 53.33,
+    "positive_pct": 22.67
+  },
+  {
+    "version": "2.51.50",
+    "review_count": 75,
+    "avg_rating": 3.25,
+    "negative_count": 30,
+    "negative_pct": 40.0,
+    "positive_pct": 45.33
+  },
+  {
+    "version": "2.72.11",
+    "review_count": 75,
+    "avg_rating": 2.91,
+    "negative_count": 33,
+    "negative_pct": 44.0,
+    "positive_pct": 41.33
+  },
+  {
+    "version": "3.16.20",
+    "review_count": 74,
+    "avg_rating": 2.34,
+    "negative_count": 44,
+    "negative_pct": 59.46,
+    "positive_pct": 27.03
+  },
+  {
+    "version": "3.25.11",
+    "review_count": 74,
+    "avg_rating": 2.42,
+    "negative_count": 47,
+    "negative_pct": 63.51,
+    "positive_pct": 20.27
+  },
+  {
+    "version": "2.60.07",
+    "review_count": 74,
+    "avg_rating": 3.62,
+    "negative_count": 27,
+    "negative_pct": 36.49,
+    "positive_pct": 54.05
+  },
+  {
+    "version": "2.43.06",
+    "review_count": 74,
+    "avg_rating": 3.35,
+    "negative_count": 25,
+    "negative_pct": 33.78,
+    "positive_pct": 48.65
+  },
+  {
+    "version": "2.91.26",
+    "review_count": 72,
+    "avg_rating": 2.46,
+    "negative_count": 42,
+    "negative_pct": 58.33,
+    "positive_pct": 20.83
+  },
+  {
+    "version": "2.59.51",
+    "review_count": 72,
+    "avg_rating": 3.62,
+    "negative_count": 20,
+    "negative_pct": 27.78,
+    "positive_pct": 59.72
+  },
+  {
+    "version": "2.83.07",
+    "review_count": 71,
+    "avg_rating": 2.9,
+    "negative_count": 34,
+    "negative_pct": 47.89,
+    "positive_pct": 35.21
+  },
+  {
+    "version": "3.38.24",
+    "review_count": 71,
+    "avg_rating": 3.72,
+    "negative_count": 19,
+    "negative_pct": 26.76,
+    "positive_pct": 61.97
+  },
+  {
+    "version": "2.91.09",
+    "review_count": 70,
+    "avg_rating": 2.27,
+    "negative_count": 41,
+    "negative_pct": 58.57,
+    "positive_pct": 24.29
+  },
+  {
+    "version": "2.32.20",
+    "review_count": 70,
+    "avg_rating": 3.43,
+    "negative_count": 23,
+    "negative_pct": 32.86,
+    "positive_pct": 51.43
+  },
+  {
+    "version": "3.04.20",
+    "review_count": 69,
+    "avg_rating": 2.45,
+    "negative_count": 45,
+    "negative_pct": 65.22,
+    "positive_pct": 24.64
+  },
+  {
+    "version": "2.98.23",
+    "review_count": 68,
+    "avg_rating": 1.96,
+    "negative_count": 56,
+    "negative_pct": 82.35,
+    "positive_pct": 7.35
+  },
+  {
+    "version": "2.94.25",
+    "review_count": 68,
+    "avg_rating": 2.25,
+    "negative_count": 41,
+    "negative_pct": 60.29,
+    "positive_pct": 20.59
+  },
+  {
+    "version": "2.58.12",
+    "review_count": 67,
+    "avg_rating": 3.28,
+    "negative_count": 20,
+    "negative_pct": 29.85,
+    "positive_pct": 40.3
+  },
+  {
+    "version": "2.77.06",
+    "review_count": 67,
+    "avg_rating": 2.79,
+    "negative_count": 37,
+    "negative_pct": 55.22,
+    "positive_pct": 35.82
+  },
+  {
+    "version": "3.03.10",
+    "review_count": 65,
+    "avg_rating": 2.28,
+    "negative_count": 40,
+    "negative_pct": 61.54,
+    "positive_pct": 29.23
+  },
+  {
+    "version": "2.81.06",
+    "review_count": 65,
+    "avg_rating": 2.78,
+    "negative_count": 38,
+    "negative_pct": 58.46,
+    "positive_pct": 26.15
+  },
+  {
+    "version": "2.35.15",
+    "review_count": 65,
+    "avg_rating": 2.37,
+    "negative_count": 38,
+    "negative_pct": 58.46,
+    "positive_pct": 24.62
+  },
+  {
+    "version": "2.42.35",
+    "review_count": 64,
+    "avg_rating": 2.56,
+    "negative_count": 23,
+    "negative_pct": 35.94,
+    "positive_pct": 32.81
+  },
+  {
+    "version": "2.84.10",
+    "review_count": 64,
+    "avg_rating": 2.55,
+    "negative_count": 39,
+    "negative_pct": 60.94,
+    "positive_pct": 25.0
+  },
+  {
+    "version": "2.48.35",
+    "review_count": 64,
+    "avg_rating": 3.23,
+    "negative_count": 27,
+    "negative_pct": 42.19,
+    "positive_pct": 46.88
+  },
+  {
+    "version": "2.42.45",
+    "review_count": 62,
+    "avg_rating": 2.63,
+    "negative_count": 34,
+    "negative_pct": 54.84,
+    "positive_pct": 33.87
+  },
+  {
+    "version": "2.71.16",
+    "review_count": 62,
+    "avg_rating": 2.5,
+    "negative_count": 33,
+    "negative_pct": 53.23,
+    "positive_pct": 25.81
+  },
+  {
+    "version": "3.18.24",
+    "review_count": 62,
+    "avg_rating": 2.55,
+    "negative_count": 37,
+    "negative_pct": 59.68,
+    "positive_pct": 29.03
+  },
+  {
+    "version": "2.74.06",
+    "review_count": 61,
+    "avg_rating": 2.72,
+    "negative_count": 36,
+    "negative_pct": 59.02,
+    "positive_pct": 37.7
+  },
+  {
+    "version": "2.38.30",
+    "review_count": 61,
+    "avg_rating": 3.23,
+    "negative_count": 21,
+    "negative_pct": 34.43,
+    "positive_pct": 47.54
+  },
+  {
+    "version": "2.41.06",
+    "review_count": 61,
+    "avg_rating": 3.3,
+    "negative_count": 20,
+    "negative_pct": 32.79,
+    "positive_pct": 49.18
+  },
+  {
+    "version": "3.23.36",
+    "review_count": 60,
+    "avg_rating": 2.82,
+    "negative_count": 34,
+    "negative_pct": 56.67,
+    "positive_pct": 30.0
+  },
+  {
+    "version": "2.66.06",
+    "review_count": 60,
+    "avg_rating": 2.63,
+    "negative_count": 29,
+    "negative_pct": 48.33,
+    "positive_pct": 31.67
+  },
+  {
+    "version": "3.02.41",
+    "review_count": 60,
+    "avg_rating": 2.15,
+    "negative_count": 39,
+    "negative_pct": 65.0,
+    "positive_pct": 21.67
+  },
+  {
+    "version": "2.54.16",
+    "review_count": 60,
+    "avg_rating": 3.77,
+    "negative_count": 20,
+    "negative_pct": 33.33,
+    "positive_pct": 56.67
+  },
+  {
+    "version": "2.62.10",
+    "review_count": 58,
+    "avg_rating": 3.55,
+    "negative_count": 22,
+    "negative_pct": 37.93,
+    "positive_pct": 48.28
+  },
+  {
+    "version": "2.39.10",
+    "review_count": 58,
+    "avg_rating": 3.38,
+    "negative_count": 22,
+    "negative_pct": 37.93,
+    "positive_pct": 51.72
+  },
+  {
+    "version": "2.72.15",
+    "review_count": 57,
+    "avg_rating": 2.95,
+    "negative_count": 26,
+    "negative_pct": 45.61,
+    "positive_pct": 38.6
+  },
+  {
+    "version": "2.78.32",
+    "review_count": 57,
+    "avg_rating": 2.53,
+    "negative_count": 31,
+    "negative_pct": 54.39,
+    "positive_pct": 22.81
+  },
+  {
+    "version": "3.08.12",
+    "review_count": 57,
+    "avg_rating": 2.63,
+    "negative_count": 33,
+    "negative_pct": 57.89,
+    "positive_pct": 36.84
+  },
+  {
+    "version": "3.24.14",
+    "review_count": 57,
+    "avg_rating": 2.32,
+    "negative_count": 40,
+    "negative_pct": 70.18,
+    "positive_pct": 17.54
+  },
+  {
+    "version": "2.32.35",
+    "review_count": 56,
+    "avg_rating": 2.66,
+    "negative_count": 32,
+    "negative_pct": 57.14,
+    "positive_pct": 23.21
+  },
+  {
+    "version": "2.27.10",
+    "review_count": 55,
+    "avg_rating": 2.98,
+    "negative_count": 24,
+    "negative_pct": 43.64,
+    "positive_pct": 34.55
+  },
+  {
+    "version": "2.34.32",
+    "review_count": 55,
+    "avg_rating": 2.47,
+    "negative_count": 32,
+    "negative_pct": 58.18,
+    "positive_pct": 29.09
+  },
+  {
+    "version": "2.76.04",
+    "review_count": 54,
+    "avg_rating": 2.89,
+    "negative_count": 29,
+    "negative_pct": 53.7,
+    "positive_pct": 31.48
+  },
+  {
+    "version": "3.22.50",
+    "review_count": 53,
+    "avg_rating": 2.62,
+    "negative_count": 32,
+    "negative_pct": 60.38,
+    "positive_pct": 26.42
+  },
+  {
+    "version": "2.37.12",
+    "review_count": 53,
+    "avg_rating": 3.17,
+    "negative_count": 25,
+    "negative_pct": 47.17,
+    "positive_pct": 41.51
+  },
+  {
+    "version": "2.52.10",
+    "review_count": 53,
+    "avg_rating": 3.32,
+    "negative_count": 14,
+    "negative_pct": 26.42,
+    "positive_pct": 49.06
+  },
+  {
+    "version": "2.40.15",
+    "review_count": 52,
+    "avg_rating": 2.85,
+    "negative_count": 24,
+    "negative_pct": 46.15,
+    "positive_pct": 40.38
+  },
+  {
+    "version": "2.81.08",
+    "review_count": 51,
+    "avg_rating": 2.73,
+    "negative_count": 29,
+    "negative_pct": 56.86,
+    "positive_pct": 29.41
+  },
+  {
+    "version": "2.71.15",
+    "review_count": 50,
+    "avg_rating": 2.92,
+    "negative_count": 24,
+    "negative_pct": 48.0,
+    "positive_pct": 32.0
+  },
+  {
+    "version": "2.42.20",
+    "review_count": 49,
+    "avg_rating": 2.61,
+    "negative_count": 28,
+    "negative_pct": 57.14,
+    "positive_pct": 14.29
+  },
+  {
+    "version": "2.77.31",
+    "review_count": 49,
+    "avg_rating": 3.37,
+    "negative_count": 23,
+    "negative_pct": 46.94,
+    "positive_pct": 36.73
+  },
+  {
+    "version": "2.44.25",
+    "review_count": 49,
+    "avg_rating": 3.9,
+    "negative_count": 14,
+    "negative_pct": 28.57,
+    "positive_pct": 65.31
+  },
+  {
+    "version": "2.83.08",
+    "review_count": 48,
+    "avg_rating": 2.25,
+    "negative_count": 29,
+    "negative_pct": 60.42,
+    "positive_pct": 16.67
+  },
+  {
+    "version": "2.71.14",
+    "review_count": 48,
+    "avg_rating": 2.88,
+    "negative_count": 23,
+    "negative_pct": 47.92,
+    "positive_pct": 29.17
+  },
+  {
+    "version": "3.12.15",
+    "review_count": 47,
+    "avg_rating": 2.26,
+    "negative_count": 29,
+    "negative_pct": 61.7,
+    "positive_pct": 27.66
+  },
+  {
+    "version": "2.32.09",
+    "review_count": 47,
+    "avg_rating": 2.6,
+    "negative_count": 25,
+    "negative_pct": 53.19,
+    "positive_pct": 31.91
+  },
+  {
+    "version": "2.77.20",
+    "review_count": 46,
+    "avg_rating": 2.87,
+    "negative_count": 24,
+    "negative_pct": 52.17,
+    "positive_pct": 32.61
+  },
+  {
+    "version": "2.86.10",
+    "review_count": 44,
+    "avg_rating": 2.23,
+    "negative_count": 28,
+    "negative_pct": 63.64,
+    "positive_pct": 20.45
+  },
+  {
+    "version": "2.56.13",
+    "review_count": 43,
+    "avg_rating": 3.26,
+    "negative_count": 20,
+    "negative_pct": 46.51,
+    "positive_pct": 32.56
+  },
+  {
+    "version": "2.83.09",
+    "review_count": 43,
+    "avg_rating": 2.98,
+    "negative_count": 22,
+    "negative_pct": 51.16,
+    "positive_pct": 39.53
+  },
+  {
+    "version": "2.75.61",
+    "review_count": 43,
+    "avg_rating": 2.91,
+    "negative_count": 18,
+    "negative_pct": 41.86,
+    "positive_pct": 30.23
+  },
+  {
+    "version": "2.59.20",
+    "review_count": 42,
+    "avg_rating": 2.69,
+    "negative_count": 20,
+    "negative_pct": 47.62,
+    "positive_pct": 33.33
+  },
+  {
+    "version": "2.90.20",
+    "review_count": 42,
+    "avg_rating": 2.62,
+    "negative_count": 27,
+    "negative_pct": 64.29,
+    "positive_pct": 26.19
+  },
+  {
+    "version": "2.98.22",
+    "review_count": 41,
+    "avg_rating": 2.12,
+    "negative_count": 27,
+    "negative_pct": 65.85,
+    "positive_pct": 17.07
+  },
+  {
+    "version": "2.86.08",
+    "review_count": 40,
+    "avg_rating": 2.45,
+    "negative_count": 26,
+    "negative_pct": 65.0,
+    "positive_pct": 15.0
+  },
+  {
+    "version": "3.26.17",
+    "review_count": 39,
+    "avg_rating": 1.97,
+    "negative_count": 27,
+    "negative_pct": 69.23,
+    "positive_pct": 17.95
+  },
+  {
+    "version": "2.99.25",
+    "review_count": 39,
+    "avg_rating": 1.9,
+    "negative_count": 28,
+    "negative_pct": 71.79,
+    "positive_pct": 12.82
+  },
+  {
+    "version": "2.86.42",
+    "review_count": 39,
+    "avg_rating": 3.08,
+    "negative_count": 18,
+    "negative_pct": 46.15,
+    "positive_pct": 33.33
+  },
+  {
+    "version": "2.80.10",
+    "review_count": 38,
+    "avg_rating": 2.79,
+    "negative_count": 26,
+    "negative_pct": 68.42,
+    "positive_pct": 21.05
+  },
+  {
+    "version": "3.02.22",
+    "review_count": 38,
+    "avg_rating": 2.37,
+    "negative_count": 20,
+    "negative_pct": 52.63,
+    "positive_pct": 18.42
+  },
+  {
+    "version": "2.84.07",
+    "review_count": 38,
+    "avg_rating": 2.26,
+    "negative_count": 23,
+    "negative_pct": 60.53,
+    "positive_pct": 10.53
+  },
+  {
+    "version": "3.11.30",
+    "review_count": 38,
+    "avg_rating": 2.24,
+    "negative_count": 25,
+    "negative_pct": 65.79,
+    "positive_pct": 18.42
+  },
+  {
+    "version": "2.67.08",
+    "review_count": 38,
+    "avg_rating": 2.26,
+    "negative_count": 20,
+    "negative_pct": 52.63,
+    "positive_pct": 26.32
+  },
+  {
+    "version": "3.07.09",
+    "review_count": 37,
+    "avg_rating": 2.14,
+    "negative_count": 24,
+    "negative_pct": 64.86,
+    "positive_pct": 13.51
+  },
+  {
+    "version": "3.06.14",
+    "review_count": 37,
+    "avg_rating": 2.46,
+    "negative_count": 20,
+    "negative_pct": 54.05,
+    "positive_pct": 21.62
+  },
+  {
+    "version": "2.82.33",
+    "review_count": 36,
+    "avg_rating": 2.42,
+    "negative_count": 25,
+    "negative_pct": 69.44,
+    "positive_pct": 22.22
+  },
+  {
+    "version": "2.33.14",
+    "review_count": 36,
+    "avg_rating": 2.53,
+    "negative_count": 23,
+    "negative_pct": 63.89,
+    "positive_pct": 19.44
+  },
+  {
+    "version": "2.62.20",
+    "review_count": 36,
+    "avg_rating": 3.39,
+    "negative_count": 17,
+    "negative_pct": 47.22,
+    "positive_pct": 47.22
+  },
+  {
+    "version": "2.59.09",
+    "review_count": 36,
+    "avg_rating": 3.44,
+    "negative_count": 19,
+    "negative_pct": 52.78,
+    "positive_pct": 38.89
+  },
+  {
+    "version": "2.70.09",
+    "review_count": 35,
+    "avg_rating": 3.31,
+    "negative_count": 15,
+    "negative_pct": 42.86,
+    "positive_pct": 40.0
+  },
+  {
+    "version": "2.85.10",
+    "review_count": 35,
+    "avg_rating": 2.6,
+    "negative_count": 19,
+    "negative_pct": 54.29,
+    "positive_pct": 31.43
+  },
+  {
+    "version": "3.32.17",
+    "review_count": 35,
+    "avg_rating": 3.74,
+    "negative_count": 15,
+    "negative_pct": 42.86,
+    "positive_pct": 54.29
+  },
+  {
+    "version": "2.78.11",
+    "review_count": 35,
+    "avg_rating": 2.63,
+    "negative_count": 20,
+    "negative_pct": 57.14,
+    "positive_pct": 34.29
+  },
+  {
+    "version": "2.48.07",
+    "review_count": 34,
+    "avg_rating": 3.97,
+    "negative_count": 8,
+    "negative_pct": 23.53,
+    "positive_pct": 64.71
+  },
+  {
+    "version": "2.99.11",
+    "review_count": 33,
+    "avg_rating": 2.12,
+    "negative_count": 23,
+    "negative_pct": 69.7,
+    "positive_pct": 27.27
+  },
+  {
+    "version": "3.17.23",
+    "review_count": 33,
+    "avg_rating": 2.36,
+    "negative_count": 21,
+    "negative_pct": 63.64,
+    "positive_pct": 21.21
+  },
+  {
+    "version": "2.42.40",
+    "review_count": 33,
+    "avg_rating": 2.45,
+    "negative_count": 20,
+    "negative_pct": 60.61,
+    "positive_pct": 24.24
+  },
+  {
+    "version": "2.28.25",
+    "review_count": 33,
+    "avg_rating": 2.27,
+    "negative_count": 18,
+    "negative_pct": 54.55,
+    "positive_pct": 18.18
+  },
+  {
+    "version": "2.36.13",
+    "review_count": 33,
+    "avg_rating": 2.73,
+    "negative_count": 14,
+    "negative_pct": 42.42,
+    "positive_pct": 30.3
+  },
+  {
+    "version": "3.05.11",
+    "review_count": 33,
+    "avg_rating": 2.42,
+    "negative_count": 20,
+    "negative_pct": 60.61,
+    "positive_pct": 21.21
+  },
+  {
+    "version": "3.11.08",
+    "review_count": 32,
+    "avg_rating": 3.03,
+    "negative_count": 16,
+    "negative_pct": 50.0,
+    "positive_pct": 31.25
+  },
+  {
+    "version": "3.17.22",
+    "review_count": 32,
+    "avg_rating": 2.88,
+    "negative_count": 13,
+    "negative_pct": 40.62,
+    "positive_pct": 37.5
+  },
+  {
+    "version": "2.51.20",
+    "review_count": 31,
+    "avg_rating": 3.39,
+    "negative_count": 12,
+    "negative_pct": 38.71,
+    "positive_pct": 48.39
+  },
+  {
+    "version": "3.19.12",
+    "review_count": 30,
+    "avg_rating": 2.63,
+    "negative_count": 17,
+    "negative_pct": 56.67,
+    "positive_pct": 30.0
+  },
+  {
+    "version": "2.72.14",
+    "review_count": 30,
+    "avg_rating": 2.83,
+    "negative_count": 18,
+    "negative_pct": 60.0,
+    "positive_pct": 26.67
+  },
+  {
+    "version": "2.28.23",
+    "review_count": 30,
+    "avg_rating": 1.93,
+    "negative_count": 20,
+    "negative_pct": 66.67,
+    "positive_pct": 10.0
+  }
+]

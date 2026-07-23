@@ -1,0 +1,77 @@
+{
+  "best_num_topics": 8,
+  "coherence_scores": {
+    "5": 0.4522,
+    "8": 0.4669,
+    "10": 0.4464
+  },
+  "coherence_time_sec": 50.06,
+  "final_training_time_sec": 91.68,
+  "total_time_sec": 153.2,
+  "topics": [
+    {
+      "topic_id": 0,
+      "label": "Payment & ShopeePay Issue",
+      "keywords": "saldo, shopeepay, pay, bisa, bayar, 1, pembayaran, beli",
+      "review_count": 864,
+      "pct_of_negative": 2.24,
+      "sample_review": "Mau beli pulsa cek shopee ada diskon cashback 2% pake shopeepay. Pas udah topup shopeepay dan cekout pulsa, eh diskonnya udah gak ada. Ternyata voucher diskon cuma pancingan buat topup shopeepay"
+    },
+    {
+      "topic_id": 1,
+      "label": "General App Experience",
+      "keywords": "shopee, saja, nya, bisa, aplikasi, mau, lagi, banget",
+      "review_count": 21965,
+      "pct_of_negative": 57.04,
+      "sample_review": "Untuk belanja online lumayan bagus dan tidak ada kendala. Teruntuk shopee kalo iklan udah di tv aja jangan di setiap aplikasi iklan nya pasti elu! Cape tau GK mencet tombol \"X\" yang saking kecil nya S"
+    },
+    {
+      "topic_id": 2,
+      "label": "Seller & Refund Dispute",
+      "keywords": "barang, penjual, pembeli, toko, dana, banyak, pengembalian, beli",
+      "review_count": 713,
+      "pct_of_negative": 1.85,
+      "sample_review": "Mohon untuk pihak shopee bisa lebih tegas dengan oknum penipuan toko, kalian brand besar tapi masih banyak penipuan toko yg ada di toko Oren kalian toko yg menjual barang palsu tidak sesuai yg di jual"
+    },
+    {
+      "topic_id": 3,
+      "label": "Account & Verification Bug",
+      "keywords": "login, log, akun, kode, in, up, verifikasi, masuk",
+      "review_count": 125,
+      "pct_of_negative": 0.32,
+      "sample_review": "BIAYA LAYANAN SAN BIAYA PENANGANAN YG MENYEBALKAN. HAPUS BIAYA PENANGANAN DAN BIAYA LAYANAN !!!!"
+    },
+    {
+      "topic_id": 4,
+      "label": "Shipping Fee & Vouchers",
+      "keywords": "kirim, ongkos, gratis, sekarang, dulu, belanja, shopee, pilih",
+      "review_count": 2085,
+      "pct_of_negative": 5.41,
+      "sample_review": "Ongkir semakin mahal dulu klo belanja 30rb pakai voucher gratis ongkir min 30rb bnar\" 0 skrg belanja 50rb ongkir 40rb pkai voucher blanja min 30rb yg dipotong cuma 20rb. semakin lama semakin mahal tid"
+    },
+    {
+      "topic_id": 5,
+      "label": "Customer Support & Service",
+      "keywords": "saya, sudah, shopee, ada, tapi, bisa, sangat, kecewa",
+      "review_count": 7834,
+      "pct_of_negative": 20.34,
+      "sample_review": "Terpaksa nilai 1.... Semua tagihan sudah saya selesaikan, tetapi akun malah dibekukan... Dan yg lebih mengecewakan... Tidak adanya bukti pelunasan yang dikirimkan kepada saya, padahal sudah berulang k"
+    },
+    {
+      "topic_id": 6,
+      "label": "App Performance & Lag",
+      "keywords": "lambat, makin, update, aplikasi, jaringan, lancar, semakin, berat",
+      "review_count": 706,
+      "pct_of_negative": 1.83,
+      "sample_review": "Terlalu lemot nge bug padahal sinyal cukup baik banyak video gak jelas juga sering update namun kualitas aplikasi makin buruk dan berat."
+    },
+    {
+      "topic_id": 7,
+      "label": "Delivery & Logistics Delay",
+      "keywords": "pengiriman, barang, sampai, jasa, hari, paket, kurir, lama",
+      "review_count": 4214,
+      "pct_of_negative": 10.94,
+      "sample_review": "Pengiriman di shopee semakin mengecewakan, terutama menggunakan shopee express hemat, barang sdh sampai di kota tujuan pada tgl 28, masa harus di kirim ke tempat tujuan sesuai estimasi penerimaan bara"
+    }
+  ]
+}

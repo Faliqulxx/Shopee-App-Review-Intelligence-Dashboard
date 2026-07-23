@@ -1,0 +1,21 @@
+{
+  "total_reviews": 85499,
+  "avg_rating": 3.09,
+  "sentiment_counts": {
+    "positif": 36796,
+    "negatif": 38506,
+    "netral": 10197
+  },
+  "sentiment_percentages": {
+    "positif": 43.04,
+    "negatif": 45.04,
+    "netral": 11.93
+  },
+  "rating_counts": {
+    "1": 28309,
+    "2": 8528,
+    "3": 8540,
+    "4": 7579,
+    "5": 32543
+  }
+}
