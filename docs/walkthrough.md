@@ -44,17 +44,25 @@
 ---
 
 ## Tahap 6: Dashboard Development — React (Hari 7-9) - Selesai ✅
+- Aplikasi React (Vite + Tailwind CSS + Recharts + Lucide React) 4 Halaman (`Overview`, `Version Quality`, `Topic Analysis`, `Top Reviews`).
+- `npm run build` sukses dalam 8.02 detik tanpa error.
+- Dev server berjalan lokal di `http://localhost:3000/`.
 
-### Deliverables Utama
-1. **Aplikasi Dashboard React (Vite)** di folder `dashboard/`:
-   - `dashboard/package.json` — Dependensi React 18, Tailwind CSS, Recharts, Lucide React.
-   - `dashboard/vite.config.js` & `dashboard/tailwind.config.js` — Configuration & Glassmorphic dark styling.
-   - `dashboard/src/components/Header.jsx` — Navigation bar 4 tab & status badge ulasan.
-   - `dashboard/src/components/KPICard.jsx` — Reusable metric card.
-   - `dashboard/src/pages/OverviewPage.jsx` — Page 1 (KPIs, Monthly Sentiment Trend, Donut Chart, Rating Distribution, Top 5 Complaint Topics).
-   - `dashboard/src/pages/VersionQualityPage.jsx` — Page 2 (Version Quality Combo Chart, High/Low highlights, Searchable Version Table).
-   - `dashboard/src/pages/TopicAnalysisPage.jsx` — Page 3 (8 Topic Cards Grid, Keyword Tags, Topic Detail View, Word Frequency Chart, Representative Sample Reviews).
-   - `dashboard/src/pages/TopReviewsPage.jsx` — Page 4 (Top Impact Reviews grouped by sentiment, thumbsUpCount highlights, search filter).
-2. **Build Verification**:
-   - `npm run build` sukses dalam 8.02 detik tanpa error.
-   - Dev server berjalan lokal di `http://localhost:3000/`.
+---
+
+## Tahap 7: Deployment ke Vercel & GitHub (Hari 9) - Selesai ✅
+
+### Deliverables & Link Repositori:
+1. **GitHub Repository**: [https://github.com/Faliqulxx/Shopee-App-Review-Intelligence-Dashboard](https://github.com/Faliqulxx/Shopee-App-Review-Intelligence-Dashboard)
+   - Branch: `main` (63 file ter-commit & ter-push, mencakup seluruh dataset, notebook, model, plots, dan aplikasi React dashboard).
+2. **Pengaturan Vercel**: `dashboard/vercel.json` disiapkan untuk framework Vite SPA rewrites.
+
+### Langkah-langkah Connect Vercel Deployment:
+1. Buka [https://vercel.com/new](https://vercel.com/new) dan login dengan akun GitHub Anda.
+2. Impor repositori: `Faliqulxx/Shopee-App-Review-Intelligence-Dashboard`.
+3. Pada halaman **Configure Project**:
+   - **Framework Preset**: Vite
+   - **Root Directory**: `dashboard` (klik Edit dan pilih folder `dashboard`)
+   - **Build Command**: `npm run build`
+   - **Output Directory**: `dist`
+4. Klik **Deploy**. Vercel akan memproses build secara otomatis dan menghasilkan **Live Production URL** publik.
