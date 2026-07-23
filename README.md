@@ -160,19 +160,6 @@ Buka browser di `http://localhost:3000/`.
 
 ---
 
-## 🌐 Deploy ke Vercel
-
-1. Login ke [Vercel](https://vercel.com/new) dan hubungkan akun GitHub Anda.
-2. Impor repositori **`Faliqulxx/Shopee-App-Review-Intelligence-Dashboard`**.
-3. Di halaman konfirmasi project:
-   * **Root Directory:** Set ke `dashboard`
-   * **Framework Preset:** Vite
-   * **Build Command:** `npm run build`
-   * **Output Directory:** `dist`
-4. Klik **Deploy**.
-
----
-
 ## 📄 Laporan Insight Bisnis & Dokumentasi Tambahan
 
 Detail laporan bisnis 5+ insight konkret, limitasi proyek, dan rencana pengembangan lanjutan (IndoBERT & ABSA) dapat dibaca pada [docs/insight_report.md](file:///e:/Vibecode/Shopee%20App%20Review%20Intelligence%20Dashboard/docs/insight_report.md).
